@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "esnext",
+		"strict": true,
+		"moduleResolution": "node",
+		"types": ["webpack-env", "./node_modules/@figma/plugin-typings"]
+	},
+	"exclude": ["node_modules"]
+}
